@@ -12,6 +12,7 @@ public class Trayecto {
         this.distancia = distancia;
         this.cantEstaciones = cantEstaciones;
     }
+    
 
     public double getDistancia(){
         return this.distancia;
